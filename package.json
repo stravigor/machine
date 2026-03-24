@@ -1,6 +1,6 @@
 {
   "name": "@stravigor/machine",
-  "version": "0.5.6",
+  "version": "0.5.9",
   "type": "module",
   "description": "State machine for the Strav framework",
   "license": "MIT",
